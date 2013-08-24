@@ -1,10 +1,14 @@
 {
-  "name": "bitstarter-ssjs-orders",
+  "name": "bitstarter",
   "version": "0.0.1",
   "description": "Simple server-side JS order processing",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/discomarra/bitstarter.git"
   },
   "dependencies": {
     "sequelize": "~2.0.0-alpha2",
